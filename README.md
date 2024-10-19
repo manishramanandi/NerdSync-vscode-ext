@@ -1,0 +1,1 @@
+# NerdSync-vscode-ext
